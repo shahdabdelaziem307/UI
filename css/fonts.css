@@ -1,0 +1,36 @@
+@font-face {
+    font-family: shahd ;
+    src: url("../fonts/Gotham-Black.otf"),
+    url("../fonts/Gotham-Bold.otf"),
+    url("../fonts/Gotham-BookItalic.otf"),
+    url("../fonts/Gotham-Light.otf"),
+    url("../fonts/Gotham-Thin.otf"),
+    url("../fonts/Gotham-ThinItalic.otf"),
+    url("../fonts/Gotham-UltraItalic.otf"),
+    url("../fonts/Gotham-XLight.otf"),
+    url("../fonts/Gotham-XLightItalic.otf"),
+    url("../fonts/GothamBold.ttf"),
+    url("../fonts//GothamBoldItalic.ttf");
+     
+    
+}
+@font-face {
+    font-family: thin ;
+    src:url("../fonts/Gotham-Thin.otf");
+}
+@font-face {
+    font-family:light ;
+    src:url("../fonts/Gotham-XLight.otf");
+}
+@font-face {
+    font-family:bold ;
+    src:url("../fonts/Gotham-Bold.otf");
+}
+@font-face {
+    font-family: book ;
+    src:url("../fonts/Gotham-BookItalic.otf");
+}
+@font-face {
+    font-family:medium ;
+    src:url("../fonts/GothamMedium.ttf");
+}
